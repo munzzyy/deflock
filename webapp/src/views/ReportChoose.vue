@@ -13,9 +13,8 @@
     <v-row justify="center" class="mb-4">
       <v-col cols="12" md="8">
         <v-alert variant="tonal" type="info" density="comfortable">
-          Both methods save to <b><a href="https://wiki.openstreetmap.org/wiki/About_OpenStreetMap" target="_blank">OpenStreetMap</a></b>,
-          so you'll need a free account before you can submit a camera.
-          <a href="https://www.openstreetmap.org/user/new" target="_blank">Sign up for an OpenStreetMap account</a>.
+          DeFlock uses <b><a href="https://wiki.openstreetmap.org/wiki/About_OpenStreetMap" target="_blank">OpenStreetMap</a></b> data;
+          you'll need to <a href="https://www.openstreetmap.org/user/new" target="_blank">create an OpenStreetMap account</a> to make submissions.
         </v-alert>
       </v-col>
     </v-row>
